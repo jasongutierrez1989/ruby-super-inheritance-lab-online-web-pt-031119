@@ -16,15 +16,5 @@ class ChattyStudent < Student
     puts "Pick me!\n"
     super
     puts "Pick me!\n"
-    super
-    puts "Pick me!\n"
-    super
-    puts "Pick me!\n"
-    super
-    puts "Pick me!\n"
-    super
-    puts "Pick me!\n"
-    super
-    puts "Pick me!\n"
   end
 end
